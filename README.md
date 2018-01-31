@@ -24,6 +24,6 @@ Output should be in the form of whole integers. average variable should be a sin
 <li>	Assign variable values based on parameters; num1=115, num2=29 num3=-15 and average=all num variables summed then divided by three (using precedence via parenthetical around addition): (num1 + num2 + num3) / 3</li>
 <li>	Print each variable individually</li> 
 <li>	Insert a pause to allow verification of final values of all variables</li>
-<li>	return statement to end main function<li>
+<li>	return statement to end main function</li>
 <h2>User Documentation:</h2>
-<p>User may open the executable or run the solution in Visual Studio via Debugger (F5). No input from the user is required, when finished press any input key to exit the program. </p>
+<p>If downloading from GitHub user must pull the entirety of the folder contents, not just the .sln (needs the .cpp file included).User may open the executable or run the solution in Visual Studio via Debugger (F5). No input from the user is required, when finished press any input key to exit the program. </p>
